@@ -1,0 +1,15 @@
+/* reset */
+* {
+  margin: 0; padding: 0;
+  box-sizing:border-box;
+}
+a { list-style-type: none;}
+ul { list-style-type: none;}
+
+/* visual */
+#visual {
+  position: relative;
+  width: 100%; height: 100vh;
+}
+
+#visual 
