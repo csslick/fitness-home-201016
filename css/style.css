@@ -19,7 +19,7 @@ ul { list-style-type: none;}
   position: relative;
   width: 50%; height: 100%;
   float: left;
-  outline: 1px solid red;
+  /* outline: 1px solid red; */
 }
 
 /* visual animation */
